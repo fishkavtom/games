@@ -11,6 +11,10 @@ local.properties
 # Generated output
 *.apk
 *.aab
+*.rar
+
+# Local assistant files
+.claude/
 
 # OS files
 .DS_Store
